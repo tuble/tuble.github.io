@@ -26,7 +26,7 @@ var p4Phrase;
 var playButton = document.getElementById("playButton");
 var BPMSlider = document.getElementById("sliderBPM");
 var volumeSlider = document.getElementById("volumeSlider");
-var clearButton = document.getElementById("clear");
+var clearButton = document.getElementById("clearButton");
 
 var pat1VolumeSlider = document.getElementById("pat1VolumeSlider");
 
